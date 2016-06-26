@@ -11,6 +11,7 @@ Adequate for Complete Beginners.
 * JavaScript
 * Object Oriented JavaScript
 * Node JS
+* Knockout JS
 * Bower
 * Google Maps & Other APIs
 * Jasmine Testing Suite
