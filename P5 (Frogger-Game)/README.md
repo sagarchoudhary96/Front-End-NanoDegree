@@ -9,7 +9,7 @@ https://github.com/sagarchoudhary96/Arcade_Frogger and Launch index.html to play
  It can be also played at http://sagarchoudhary96.github.io/Arcade_Frogger
 
 
-###Game Instructions:
+### Game Instructions:
 * Move up: up arrow
 * Move down: down arrow
 * Move left: left arrow
